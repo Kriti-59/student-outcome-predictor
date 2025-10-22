@@ -32,6 +32,10 @@ This project uses machine learning to predict whether students will **dropout**,
 **Class imbalance** - Only 18% of students are in the "Enrolled" category
 
 
+###  Addressing Class Imbalance with SMOTE
+- Balanced training data from 635 → 1,767 enrolled samples
+- Maintained original test set for unbiased evaluation
+
 
 ## 📈 Results
 
