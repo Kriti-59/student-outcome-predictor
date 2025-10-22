@@ -50,6 +50,8 @@ While SMOTE reduced overall accuracy by 1% (77% → 76%), this trade-off is **be
 - Model became more sensitive to enrolled students (improved recall)
 - This increased false positives, slightly lowering overall accuracy
 
+**How is the trade-off beneficial?**
+
 - Catching at-risk students is more important than perfect accuracy
 - Missing a student who drops out (false negative) is more costly than a false alarm (false positive)
 - Student advisors would prefer checking extra students over missing those who need help
